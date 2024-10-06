@@ -1,0 +1,9 @@
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore .idea directory
+.idea/
+
+# Ignore everything in the data folder expect a placeholdel file
+data/*
+!.gitkeep
