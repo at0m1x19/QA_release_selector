@@ -4,6 +4,6 @@
 # Ignore .idea directory
 .idea/
 
-# Ignore everything in the data folder expect a placeholdel file
+# Ignore everything in the data folder except a releases.txt example file
 data/*
-!.gitkeep
+!releases.txt
